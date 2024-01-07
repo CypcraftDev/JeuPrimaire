@@ -1,8 +1,8 @@
 <Mettre ici le nom de votre jeu>
 ===========
 
-Développé par <prénom1 nom1> Cyprien Freville et Raphaël TAFANI
-Contacts : <mail1> cyprien.freville.etu@univ-lille.fr, raphael.tafani.etu@univ-lille.fr
+Développé par <prénom1 nom1> Cypcraft et Raphaël TAFANI
+Contacts : <mail1>
 
 # Présentation de <le nom de votre jeu>
 
