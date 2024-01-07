@@ -1,0 +1,11 @@
+------------------------------------------
+|             Menu Principal             |
+|                                        |
+|       1 - Jouer                        |
+|                                        |
+|     < 2 - Configuration Couleurs >     |
+|                                        |
+|       3 - Configuration Globale        |
+|                                        |
+|                                        |
+------------------------------------------
